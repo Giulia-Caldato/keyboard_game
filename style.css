@@ -1,0 +1,32 @@
+header {
+    color: greenyellow;
+    background-color: blue;
+}
+
+
+h1 {
+    font-size: 20px;
+    margin: 5 10 0 10;
+    color: orangered;
+}
+
+h2 {
+    font-size: 14px;
+    margin: 10 10 0 10;
+    color:blue;
+}
+
+*.container {
+    padding 0 2px 0 2px;
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: blue;
+}
+/*@keyframes stylesheet {
+    100% {
+      opacity: 0;
+      transform: scale(0.1) translate(500px, 0);
+      background-color: blue;
+    }
+  }
+*/
